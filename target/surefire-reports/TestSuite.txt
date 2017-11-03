@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 45.596 s <<< FAILURE! - in TestSuite
+seachOption(walmartHomePage.searchWithDataTest)  Time elapsed: 4.602 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at walmartHomePage.searchWithDataTest.seachOption(searchWithDataTest.java:43)
+
+seachOption(walmartHomePage.searchOptionTest)  Time elapsed: 5.832 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at walmartHomePage.searchOptionTest.seachOption(searchOptionTest.java:45)
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="walmartHomePage.Listener"/>
+    <listener class-name="resource.ExtentReporterNG"/>
+  </listeners>
+  <test name="Walmart Home Search(failed)">
+    <classes>
+      <class name="walmartHomePage.searchOptionTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="seachOption"/>
+        </methods>
+      </class> <!-- walmartHomePage.searchOptionTest -->
+    </classes>
+  </test> <!-- Walmart Home Search(failed) -->
+</suite> <!-- Failed suite [Suite] -->

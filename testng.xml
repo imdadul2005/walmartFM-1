@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<!-- Add listener to TestNG -->
+<listeners>
+	<listener class-name="walmartHomePage.Listener"/> 
+	<listener class-name="resource.ExtentReporterNG"/> 
+</listeners>
+  	<test name="Walmart Home Page">
+    	<classes>
+  			 <class name="walmartHomePage.searchWithDataTest"/>
+  		</classes>
+  		</test> 
+  		<test name="Walmart Home Search">
+    	<classes>
+      		  
+      <class name="walmartHomePage.searchOptionTest"/>
+  		</classes>
+  	</test> <!-- Test -->
+</suite> <!-- Suite -->

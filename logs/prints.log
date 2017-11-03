@@ -1,0 +1,35 @@
+00:10:24.078 [main] INFO  walmartHomePage.searchWithDataTest - WebDriver Initialized
+00:10:24.093 [main] INFO  walmartHomePage.searchWithDataTest - chrome
+00:10:32.749 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item playstation
+00:10:35.225 [main] INFO  walmartHomePage.searchWithDataTest - Searching for playstation received title 
+00:10:37.765 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item ipad
+00:10:44.501 [main] INFO  walmartHomePage.searchWithDataTest - Searching for ipad received title All iPads - Walmart.com
+00:10:46.823 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item iphone
+00:10:53.709 [main] INFO  walmartHomePage.searchWithDataTest - Searching for iphone received title All iPhones - Walmart.com
+00:10:54.073 [main] INFO  walmartHomePage.searchWithDataTest - After Test
+00:10:58.387 [main] INFO  walmartHomePage.searchOptionTest - WebDriver Initialized
+00:11:06.189 [main] INFO  walmartHomePage.searchOptionTest - Searching for item xbox
+00:11:11.464 [main] INFO  walmartHomePage.searchOptionTest - xbox - Walmart.com
+00:11:11.928 [main] INFO  walmartHomePage.searchOptionTest - After Method
+00:14:08.469 [main] INFO  walmartHomePage.searchWithDataTest - WebDriver Initialized
+00:14:08.484 [main] INFO  walmartHomePage.searchWithDataTest - chrome
+00:14:14.263 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item playstation
+00:14:16.712 [main] INFO  walmartHomePage.searchWithDataTest - Searching for playstation received title 
+00:14:35.016 [main] INFO  walmartHomePage.searchWithDataTest - After Test
+11:06:14.963 [main] INFO  walmartHomePage.searchWithDataTest - WebDriver Initialized
+11:06:14.963 [main] INFO  walmartHomePage.searchWithDataTest - chrome
+11:06:19.375 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item playstation
+11:08:00.739 [main] INFO  walmartHomePage.searchWithDataTest - Searching for playstation received title 
+11:08:21.010 [main] INFO  walmartHomePage.searchWithDataTest - WebDriver Initialized
+11:08:21.026 [main] INFO  walmartHomePage.searchWithDataTest - chrome
+11:08:26.465 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item playstation
+11:08:30.605 [main] INFO  walmartHomePage.searchWithDataTest - Searching for playstation received title playstation - Walmart.com
+11:08:37.710 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item ipad
+11:08:43.810 [main] INFO  walmartHomePage.searchWithDataTest - Searching for ipad received title All iPads - Walmart.com
+11:08:46.273 [main] INFO  walmartHomePage.searchWithDataTest - Searching for item iphone
+11:08:48.816 [main] INFO  walmartHomePage.searchWithDataTest - Searching for iphone received title 
+11:08:49.093 [main] INFO  walmartHomePage.searchWithDataTest - After Test
+11:08:53.364 [main] INFO  walmartHomePage.searchOptionTest - WebDriver Initialized
+11:08:58.122 [main] INFO  walmartHomePage.searchOptionTest - Searching for item xbox
+11:08:59.220 [main] INFO  walmartHomePage.searchOptionTest - 
+11:08:59.494 [main] INFO  walmartHomePage.searchOptionTest - After Method

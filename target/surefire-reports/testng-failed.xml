@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="walmartHomePage.Listener"/>
+    <listener class-name="resource.ExtentReporterNG"/>
+  </listeners>
+  <test name="Walmart Home Page(failed)">
+    <classes>
+      <class name="walmartHomePage.searchWithDataTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="seachOption" invocation-numbers="2"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- walmartHomePage.searchWithDataTest -->
+      <class name="walmartHomePage.searchOptionTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- walmartHomePage.searchOptionTest -->
+    </classes>
+  </test> <!-- Walmart Home Page(failed) -->
+  <test name="Walmart Home Search(failed)">
+    <classes>
+      <class name="walmartHomePage.searchWithDataTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- walmartHomePage.searchWithDataTest -->
+      <class name="walmartHomePage.searchOptionTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="seachOption"/>
+        </methods>
+      </class> <!-- walmartHomePage.searchOptionTest -->
+    </classes>
+  </test> <!-- Walmart Home Search(failed) -->
+</suite> <!-- Failed suite [Suite] -->
